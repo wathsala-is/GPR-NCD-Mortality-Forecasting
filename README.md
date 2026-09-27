@@ -6,7 +6,7 @@ Regression: A Non-parametric Machine Learning Approach".
 
 ## Main analysis notebooks
 
-- GPModels_NCDData_Revised_26.09.ipynb
+- GPModels_NCDData_Revised.ipynb
   - mortality-data preparation
   - primary temporal hold-out validation
   - rolling-origin sensitivity analysis
@@ -15,7 +15,7 @@ Regression: A Non-parametric Machine Learning Approach".
   - manuscript figures and tables
   - convergence diagnostics
 
-- GPKernels_Revised_26.09.ipynb
+- GPKernels_Revised.ipynb
   - kernel and covariance figures
 
 ## Input datasets
